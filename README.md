@@ -241,7 +241,7 @@ h1{
 ## OUTPUT:
 
 -- include your output screenshots ---
-![output](.//h1.PNG)
+![output](.//g1.PNG)
  
 ## Result:
 
